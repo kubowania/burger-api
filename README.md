@@ -10,8 +10,8 @@ For those of you wishing to check out the live API, visit [here.](https://my-bur
 
 If you did like the video tutorial, please hit the Like and Subscribe button so I know to make more!
 
-Twitter: https://twitter.com/ania_kubow
-YouTube: https://youtube.com/aniakubow
-Instagram: https://instagram.com/aniakubow
+* Twitter: https://twitter.com/ania_kubow
+* YouTube: https://youtube.com/aniakubow
+* Instagram: https://instagram.com/aniakubow
 
 #burgerAPI
