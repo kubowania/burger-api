@@ -99,6 +99,31 @@
           "country": "Sweden"
         }
       ]
+    },
+      {
+      "id": "5",
+      "name": "Barbie Burger",
+      "restaurant": "Flower Burger",
+      "web": "https://www.flowerburger.it/",
+      "description": "From a pink explosion was born Barbie Burger, a special edition in partnership with Mattel",
+      "ingredients": [
+        "pink bun",
+        "lentil and beetroot burger",
+        "tomatoes",
+        "gentilina salad",
+        "barbie hummus",
+        "barbie mayo"
+      ],
+      "addresses": [
+        {
+          "addressid": "0",
+          "number": "12",
+          "line1": "Porta Genova",
+          "line2": "Via Tortona",
+          "postcode": "20144",
+          "country": "Italy"
+        }
+      ]
     }
   ]
 }
