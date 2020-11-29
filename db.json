@@ -53,6 +53,24 @@
               "country": "Bikini Bottom, Pacific Ocean"
           }
        ]
+    },
+    {
+      "id": 3,
+      "name": "The Good Burger",
+      "restaurant": "Good Burger",
+      "web": "https://en.wikipedia.org/wiki/Good_Burger",
+      "description": "Welcome to Good Burger, home of the Good Burger, can I take your order?",
+      "ingredients": ["bun", "tomato", "Ed's secret sauce", "lettuce", "onions", "cheese"],
+      "addresses": [
+          {
+              "addressid":"0",
+              "number":"000",
+              "line1": "Good Burger",
+              "line2": "437 Glendora Ave.",
+              "postcode": "CA",
+              "country": "United States"
+          }
+       ]
     }
   ]
 }
