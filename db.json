@@ -71,6 +71,34 @@
               "country": "United States"
           }
        ]
+    },
+    {
+      "id": "4",
+      "name": "Crunchy Nacho Burger",
+      "restaurant": "Max Burgers",
+      "web": "https://www.max.se/maten/meny/burgare/crunchy-nacho-burger/",
+      "description": "The best combination of crunchiness and softness, all in one single burger",
+      "ingredients": [
+        "sesame bun",
+        "salsa",
+        "cheddar",
+        "nachos",
+        "beef",
+        "tomato",
+        "pickled onion",
+        "lettuce",
+        "jalapeño mayonnaise"
+      ],
+      "addresses": [
+        {
+          "addressid": "0",
+          "number": "48D",
+          "line1": "Skeppsbrogatan",
+          "line2": "Luleå",
+          "postcode": "971 25",
+          "country": "Sweden"
+        }
+      ]
     }
   ]
 }
