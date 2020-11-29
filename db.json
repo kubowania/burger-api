@@ -99,6 +99,38 @@
           "country": "Sweden"
         }
       ]
+    },
+    {
+      "id": "7",
+      "name": "MEISTER ALLER KLASSEN",
+      "restaurant": "Burgermeister",
+      "web": "https://burger-meister.de",
+      "description": "Fast food joint located in a public toilet? Why on earth?!",
+      "ingredients": [
+        "2 x meat , ",
+        "2 x cheese",
+        "bacon",
+        "barbequesauce",
+        "jalapenos"
+      ],
+      "addresses": [
+        {
+          "addressid": "0",
+          "number": "1",
+          "line1": "Potsdamer Platz",
+          "line2": "Berlin",
+          "postcode": "10785",
+          "country": "Germany"
+        },
+        {
+          "addressid": "1",
+          "number": "45",
+          "line1": "Eberswalder, Schönhauser Allee",
+          "line2": "Berlin",
+          "postcode": "10435",
+          "country": "Germany"
+        }
+      ]
     }
   ]
 }
