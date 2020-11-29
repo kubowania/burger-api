@@ -99,6 +99,24 @@
           "country": "Sweden"
         }
       ]
-    }
+    },
+    {
+      "id": 5,
+      "name": "Curry On My Wayward bun",
+      "restaurant": "Bob's Burgers",
+      "web": "https://bobs-burgers.fandom.com/wiki/Burger_of_the_Day",
+      "description": "N/A",
+      "ingredients": ["beef", "curry", "bun"],
+      "addresses": [
+          {
+              "addressid":"0",
+              "number":"0",
+              "line1": "Ocean Avenue",
+              "line2": "NJ",
+              "postcode": "08260",
+              "country": "United States"
+          }
+       ]
+    },
   ]
 }
