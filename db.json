@@ -9,7 +9,7 @@
       "ingredients": ["beef", "american cheese", "burger sauce", "french mustard", "pickes", "onion", "lettuce"],
       "addresses": [
           {
-              "addressid":"0",
+              "addressid": 0,
               "number":"75",
               "line1": "Venn Street",
               "line2": "Clapham",
@@ -27,7 +27,7 @@
       "ingredients": ["jackfruit", "coleslaw", "gluten free bun"],
       "addresses": [
           {
-              "addressid":"0",
+              "addressid": 0,
               "number":"104",
               "line1": "Brick Lane",
               "line2": "Shoreditch",
@@ -45,7 +45,7 @@
       "ingredients": ["bun", "patty", "ketchup", "mustard", "pickles", "onions", "lettuce", "cheese", "tomato", "bun"],
       "addresses": [
           {
-              "addressid":"0",
+              "addressid": 0,
               "number":"831",
               "line1": "Bottom Feeder Lane",
               "line2": "",
@@ -63,7 +63,7 @@
       "ingredients": ["bun", "tomato", "Ed's secret sauce", "lettuce", "onions", "cheese"],
       "addresses": [
           {
-              "addressid":"0",
+              "addressid": 0,
               "number":"000",
               "line1": "Good Burger",
               "line2": "437 Glendora Ave.",
@@ -91,7 +91,7 @@
       ],
       "addresses": [
         {
-          "addressid": "0",
+          "addressid": 0,
           "number": "48D",
           "line1": "Skeppsbrogatan",
           "line2": "Luleå",
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "id": "5",
+      "id": 5,
       "name": "Barbie Burger",
       "restaurant": "Flower Burger",
       "web": "https://www.flowerburger.it/",
@@ -116,7 +116,7 @@
       ],
       "addresses": [
         {
-          "addressid": "0",
+          "addressid": 0,
           "number": "12",
           "line1": "Porta Genova",
           "line2": "Via Tortona",
@@ -134,7 +134,7 @@
       "ingredients": ["beef", "curry", "bun"],
       "addresses": [
           {
-              "addressid":"0",
+              "addressid":0,
               "number":"0",
               "line1": "Ocean Avenue",
               "line2": "NJ",
@@ -144,7 +144,7 @@
        ]
     },
     {
-      "id": "7",
+      "id": 7,
       "name": "MEISTER ALLER KLASSEN",
       "restaurant": "Burgermeister",
       "web": "https://burger-meister.de",
@@ -158,7 +158,7 @@
       ],
       "addresses": [
         {
-          "addressid": "0",
+          "addressid": 0,
           "number": "1",
           "line1": "Potsdamer Platz",
           "line2": "Berlin",
@@ -166,7 +166,7 @@
           "country": "Germany"
         },
         {
-          "addressid": "1",
+          "addressid": 1,
           "number": "45",
           "line1": "Eberswalder, Schönhauser Allee",
           "line2": "Berlin",
