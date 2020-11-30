@@ -101,6 +101,49 @@
       ]
     },
     {
+      "id": "5",
+      "name": "Barbie Burger",
+      "restaurant": "Flower Burger",
+      "web": "https://www.flowerburger.it/",
+      "description": "From a pink explosion was born Barbie Burger, a special edition in partnership with Mattel",
+      "ingredients": [
+        "pink bun",
+        "lentil and beetroot burger",
+        "tomatoes",
+        "gentilina salad",
+        "barbie hummus",
+        "barbie mayo"
+      ],
+      "addresses": [
+        {
+          "addressid": "0",
+          "number": "12",
+          "line1": "Porta Genova",
+          "line2": "Via Tortona",
+          "postcode": "20144",
+          "country": "Italy"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Curry On My Wayward Bun",
+      "restaurant": "Bob's Burgers",
+      "web": "https://bobs-burgers.fandom.com/wiki/Burger_of_the_Day",
+      "description": "N/A",
+      "ingredients": ["beef", "curry", "bun"],
+      "addresses": [
+          {
+              "addressid":"0",
+              "number":"0",
+              "line1": "Ocean Avenue",
+              "line2": "NJ",
+              "postcode": "08260",
+              "country": "United States"
+          }
+       ]
+    },
+    {
       "id": "7",
       "name": "MEISTER ALLER KLASSEN",
       "restaurant": "Burgermeister",
