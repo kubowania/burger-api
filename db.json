@@ -150,7 +150,7 @@
       "web": "https://burger-meister.de",
       "description": "Fast food joint located in a public toilet? Why on earth?!",
       "ingredients": [
-        "2 x meat , ",
+        "2 x meat",
         "2 x cheese",
         "bacon",
         "barbequesauce",
@@ -172,6 +172,31 @@
           "line2": "Berlin",
           "postcode": "10435",
           "country": "Germany"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Vegetarian Burger (Indian Style)",
+      "restaurant": "Indian Burgers",
+      "web": "https://www.cookwithmanali.com/vegetarian-burger-indian-style/",
+      "description": "With summer around the corner, I had to share a vegetarian burger recipe with you guys. Actually I plan to share more in the next month but I thought I will start with this Indian style Vegetarian Burger aka Masala Burger!",
+      "ingredients": [
+        "american cheese",
+        "burger sauce",
+        "french mustard",
+        "pickes",
+        "onion",
+        "Veggies"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "007",
+          "line1": "Line1",
+          "line2": "Line2",
+          "postcode": "",
+          "country": "India"
         }
       ]
     }
