@@ -282,32 +282,6 @@
           "country": "South Africa"
         }
       ]
-    },
-    {
-        "id": 12,
-        "name": "Cheatday Burger",
-        "restaurant": "Burgeramt",
-        "web": "https://www.burgeramt.com/",
-        "description": "Perfect when you need a day off from your workout routine",
-        "ingredients": [
-          "double beef",
-          "chilli-cheese sauce",
-          "2 slices cheddar cheese",
-          "crispy bacon stripes",
-          "nachos",
-          "mayonnaise",
-          "mustard"
-        ],
-        "addresses": [
-          {
-            "addressId": 0,
-            "number": "21 - 22",
-            "line1": "Krossener Straße",
-            "line2": "Berlin",
-            "postcode": "10245",
-            "country": "Germany"
-          }
-        ]
-      }
+    }
   ]
 }
