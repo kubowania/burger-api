@@ -199,6 +199,32 @@
           "country": "India"
         }
       ]
+    },
+    {
+      "id": 9,
+      "name": "Fat Santa",
+      "restaurant": "Sky City Hamilton",
+      "web": "https://skycityhamilton.co.nz/eat-drink/eat-burger/",
+      "description": "A Christmas themed burger",
+      "ingredients": [
+        "chicken thigh",
+        "champagne ham",
+        "sage and onion stuffing",
+        "gravy mash",
+        "lettuce",
+        "tomato",
+        "cranberry sauce"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "348",
+          "line1": "Victoria street",
+          "line2": "Hamilton, Hamilton Central",
+          "postcode": "3204",
+          "country": "New Zealand"
+        }
+      ]
     }
   ]
 }
