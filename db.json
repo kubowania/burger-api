@@ -284,30 +284,54 @@
       ]
     },
     {
-        "id": 12,
-        "name": "Cheatday Burger",
-        "restaurant": "Burgeramt",
-        "web": "https://www.burgeramt.com/",
-        "description": "Perfect when you need a day off from your workout routine",
-        "ingredients": [
-          "double beef",
-          "chilli-cheese sauce",
-          "2 slices cheddar cheese",
-          "crispy bacon stripes",
-          "nachos",
-          "mayonnaise",
-          "mustard"
-        ],
-        "addresses": [
-          {
-            "addressId": 0,
-            "number": "21 - 22",
-            "line1": "Krossener Straße",
-            "line2": "Berlin",
-            "postcode": "10245",
-            "country": "Germany"
-          }
-        ]
-      }
+      "id": 12,
+      "name": "Buffalo chicken burger",
+      "restaurant": "Meat Mission",
+      "web": "http://meatliquor.com/",
+      "description": "Large, messy, super tasty buffalo chicken burger",
+      "ingredients": [
+        "Fried chicken breast",
+        "House-made buffalo sauce"
+        "Lettuce",
+        "Red onions",
+        "Blue cheese sauce"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "15",
+          "line1": "Hoxton Market,",
+          "line2": "Hackney, London",
+          "postcode": "N1 6HG",
+          "country": "United Kingdom"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Cheatday Burger",
+      "restaurant": "Burgeramt",
+      "web": "https://www.burgeramt.com/",
+      "description": "Perfect when you need a day off from your workout routine",
+      "ingredients": [
+        "double beef",
+        "chilli-cheese sauce",
+        "2 slices cheddar cheese",
+        "crispy bacon stripes",
+        "nachos",
+        "mayonnaise",
+        "mustard"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "21 - 22",
+          "line1": "Krossener Straße",
+          "line2": "Berlin",
+          "postcode": "10245",
+          "country": "Germany"
+        }
+      ]
+    }
   ]
 }
