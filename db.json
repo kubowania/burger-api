@@ -540,6 +540,24 @@
            "country":"India" 
         }
       ]
+    },
+    {
+      "id": 19,
+      "name": "Double Slab Burger",
+      "restaurant": "Slab Burgers",
+      "web": "www.slabburgers.com",
+      "description": "taste of hormone-free running cows",
+      "ingredients": ["beef", "caramelized onions", "slab sauce", "pickles", "mushrooms", "tomato", "lettuce"],
+      "addresses": [
+          {
+              "addressId": 0,
+              "number":"47",
+              "line1": "Charles Street West",
+              "line2": "Toronto, Ontario",
+              "postcode": "M4Y 2R4",
+              "country": "Canada"
+          }
+       ]
     }
   ]
 }
