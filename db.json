@@ -558,6 +558,24 @@
               "country": "Canada"
           }
        ]
+    },
+    {
+      "id": 20,
+      "name": "The Street Burgers and Coctail Bar Prague 1",
+      "restaurant": "The Street",
+      "web": "www.thestreet.cz",
+      "description": "American, Bar, International, European, Vegetarian Friendly",
+      "ingredients": ["beef", "cheddar cheese", "blue cheese", "onion", "mozzarella", "bacon", "lettuce"],
+      "addresses": [
+          {
+              "addressId": 0,
+              "number":"11",
+              "line1": "Konviktska",
+              "line2": "Prague",
+              "postcode": "110 00",
+              "country": "The Czech Republic"
+          }
+       ]
     }
   ]
 }
