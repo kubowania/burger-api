@@ -559,5 +559,23 @@
           }
        ]
     }
+    {
+      "id": 20,
+      "name": "Hatch Green Chile Bacon Burger",
+      "restaurant": "Whataburger",
+      "web": "www.whataburger.com",
+      "description": "burger with hatch green chiles, bacon and cheese",
+      "ingredients": ["beef", "cheese", "bacon", "hatch green chiles", "mayonnaise"],
+      "addresses": [
+          {
+              "addressId": 0,
+              "number":"984",
+              "line1": "388 E Stacy Rd",
+              "line2": "Allen, TX",
+              "postcode": "75002",
+              "country": "USA"
+          }
+       ]
+    }
   ]
 }
