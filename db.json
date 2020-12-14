@@ -558,6 +558,32 @@
               "country": "Canada"
           }
        ]
+      },
+      {
+        "id": 22,
+        "name": "Cajun Black Bean Burger",
+        "restaurant": "The Chicago Diner",
+        "web": "www.veggiediner.com",
+        "description": "a hearty veggie burger with a kick that goes great with sweet potato fries",
+        "ingredients": ["spicy black bean veggie patty", "sautéed onions", "mushrooms", "spinach", "tomato", "fried jalapeño", "cheddar sauce", "creole mustard"],
+        "addresses": [
+            {
+              "addressId": 0,
+              "number":"3411",
+              "line1": "N Halsted St",
+              "line2": "Chicago, Illinois",
+              "postcode": "60657",
+              "country": "USA"
+            },
+            {
+              "addressId": 1,
+              "number":"2333",
+              "line1": "N Milwaukee Ave,",
+              "line2": "Chicago, Illinois",
+              "postcode": "60647",
+              "country": "USA"
+          }
+        ]
     }
   ]
 }
