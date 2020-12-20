@@ -32,7 +32,11 @@
       "restaurant": "Mooshies",
       "web": "www.veganburger.org",
       "description": "Spicy vegan burger with jackfruit",
-      "ingredients": ["jackfruit", "coleslaw", "gluten free bun"],
+      "ingredients": [
+        "jackfruit",
+        "coleslaw",
+        "gluten free bun"
+      ],
       "addresses": [
         {
           "addressId": 0,
@@ -157,7 +161,11 @@
       "restaurant": "Bob's Burgers",
       "web": "https://bobs-burgers.fandom.com/wiki/Burger_of_the_Day",
       "description": "N/A",
-      "ingredients": ["beef", "curry", "bun"],
+      "ingredients": [
+        "beef",
+        "curry",
+        "bun"
+      ],
       "addresses": [
         {
           "addressId": 0,
@@ -520,24 +528,24 @@
       ]
     },
     {
-      "id":18,
-      "name":"Mojitto Burger",
-      "restaurant":"Burger King India",
-      "web":"www.mojitto.com",
-      "description":"Burger a day keeps the fat away",
-      "ingredients":[
+      "id": 18,
+      "name": "Mojitto Burger",
+      "restaurant": "Burger King India",
+      "web": "www.mojitto.com",
+      "description": "Burger a day keeps the fat away",
+      "ingredients": [
         "bread",
         "maida",
         "chick",
         "patty"
       ],
-      "addresses":[
+      "addresses": [
         {
-           "addressID":0,
-           "number":"8A",
-           "line1":"Kaythye millath street",
-           "postcode":"620020",
-           "country":"India" 
+          "addressID": 0,
+          "number": "8A",
+          "line1": "Kaythye millath street",
+          "postcode": "620020",
+          "country": "India"
         }
       ]
     },
@@ -547,17 +555,25 @@
       "restaurant": "Slab Burgers",
       "web": "www.slabburgers.com",
       "description": "taste of hormone-free running cows",
-      "ingredients": ["beef", "caramelized onions", "slab sauce", "pickles", "mushrooms", "tomato", "lettuce"],
+      "ingredients": [
+        "beef",
+        "caramelized onions",
+        "slab sauce",
+        "pickles",
+        "mushrooms",
+        "tomato",
+        "lettuce"
+      ],
       "addresses": [
-          {
-              "addressId": 0,
-              "number":"47",
-              "line1": "Charles Street West",
-              "line2": "Toronto, Ontario",
-              "postcode": "M4Y 2R4",
-              "country": "Canada"
-          }
-       ]
+        {
+          "addressId": 0,
+          "number": "47",
+          "line1": "Charles Street West",
+          "line2": "Toronto, Ontario",
+          "postcode": "M4Y 2R4",
+          "country": "Canada"
+        }
+      ]
     },
     {
       "id": 20,
@@ -565,17 +581,28 @@
       "restaurant": "Du Brown Burger Café",
       "web": "https://www.dubrown.com/",
       "description": "Home of the no bullshit burger",
-      "ingredients": ["beef", "bacon", "caramelized onions", "cheddar cheese", "barbecue sauce", "onion rings", "jalepeños", "tomato", "lettuce", "chipote mayonaise"],
+      "ingredients": [
+        "beef",
+        "bacon",
+        "caramelized onions",
+        "cheddar cheese",
+        "barbecue sauce",
+        "onion rings",
+        "jalepeños",
+        "tomato",
+        "lettuce",
+        "chipote mayonaise"
+      ],
       "addresses": [
-          {
-              "addressId": 0,
-              "number":"12",
-              "line1": "rue St Léonard",
-              "line2": "Nantes",
-              "postcode": "44000",
-              "country": "France"
-          }
-       ]
+        {
+          "addressId": 0,
+          "number": "12",
+          "line1": "rue St Léonard",
+          "line2": "Nantes",
+          "postcode": "44000",
+          "country": "France"
+        }
+      ]
     },
     {
       "id": 21,
@@ -583,17 +610,24 @@
       "restaurant": "Melting Potes Nantes",
       "web": "https://www.meltingpotesnantes.com/",
       "description": "Home of the no bullshit burger",
-      "ingredients": ["beef", "poutine", "raclette cheese", "honey mustard sauce", "goats cheese", "crispy onions"],
+      "ingredients": [
+        "beef",
+        "poutine",
+        "raclette cheese",
+        "honey mustard sauce",
+        "goats cheese",
+        "crispy onions"
+      ],
       "addresses": [
-          {
-              "addressId": 0,
-              "number":"12",
-              "line1": "boulevard de la Prairie au Duc",
-              "line2": "Ile de Nantes, Nantes",
-              "postcode": "44000",
-              "country": "France"
-          }
-       ]
+        {
+          "addressId": 0,
+          "number": "12",
+          "line1": "boulevard de la Prairie au Duc",
+          "line2": "Ile de Nantes, Nantes",
+          "postcode": "44000",
+          "country": "France"
+        }
+      ]
     },
     {
       "id": 22,
@@ -601,35 +635,42 @@
       "restaurant": "Big Fernand",
       "web": "https://bigfernand.com/",
       "description": "L'atelier du Hamburgé - The burger workshop",
-      "ingredients": ["beef", "sundried tomates", "tatar sauce", "confit onions", "blue cheese", "smokey bacon"],
+      "ingredients": [
+        "beef",
+        "sundried tomates",
+        "tatar sauce",
+        "confit onions",
+        "blue cheese",
+        "smokey bacon"
+      ],
       "addresses": [
-          {
-              "addressId": 0,
-              "number":"7",
-              "line1": "rue des Halles",
-              "line2": "Nantes",
-              "postcode": "44000",
-              "country": "France"
-          },
-          {
-            "addressId": 1,
-            "number":"3",
-            "line1": "Place de Béthune",
-            "line2": "Lille",
-            "postcode": "59000",
-            "country": "France"
-          },
-          {
-            "addressId": 2,
-            "number":"6",
-            "line1": "place Jean Jaurès",
-            "line2": "Montpellier",
-            "postcode": "34000",
-            "country": "France"
+        {
+          "addressId": 0,
+          "number": "7",
+          "line1": "rue des Halles",
+          "line2": "Nantes",
+          "postcode": "44000",
+          "country": "France"
+        },
+        {
+          "addressId": 1,
+          "number": "3",
+          "line1": "Place de Béthune",
+          "line2": "Lille",
+          "postcode": "59000",
+          "country": "France"
+        },
+        {
+          "addressId": 2,
+          "number": "6",
+          "line1": "place Jean Jaurès",
+          "line2": "Montpellier",
+          "postcode": "34000",
+          "country": "France"
         },
         {
           "addressId": 3,
-          "number":"86",
+          "number": "86",
           "line1": "Boulevard du Montparnasse",
           "line2": "Paris",
           "postcode": "75014",
@@ -637,21 +678,21 @@
         },
         {
           "addressId": 4,
-          "number":"55",
+          "number": "55",
           "line1": "rue de Faubourg Poissonnière",
           "line2": "Paris",
           "postcode": "75009",
           "country": "France"
-      },
-      {
-        "addressId": 5,
-        "number":"4",
-        "line1": "rue du Parchemin",
-        "line2": "Strasbourg",
-        "postcode": "67000",
-        "country": "France"
-      }
-       ]
+        },
+        {
+          "addressId": 5,
+          "number": "4",
+          "line1": "rue du Parchemin",
+          "line2": "Strasbourg",
+          "postcode": "67000",
+          "country": "France"
+        }
+      ]
     },
     {
       "id": 23,
@@ -659,49 +700,56 @@
       "restaurant": "PNY Burger",
       "web": "https://pnyburger.com/",
       "description": "Home of the no bullshit burger",
-      "ingredients": ["beef", "poutine", "raclette cheese", "honey mustard sauce", "goats cheese", "crispy onions"],
+      "ingredients": [
+        "beef",
+        "poutine",
+        "raclette cheese",
+        "honey mustard sauce",
+        "goats cheese",
+        "crispy onions"
+      ],
       "addresses": [
-          {
-              "addressId": 0,
-              "number":"50",
-              "line1": "rue de Cautartin",
-              "line2": "Paris",
-              "postcode": "75009",
-              "country": "France"
-          },
-          {
-            "addressId": 1,
-            "number":"120",
-            "line1": "rue du Faubourg St Antoine",
-            "line2": "Paris",
-            "postcode": "75012",
-            "country": "France"
+        {
+          "addressId": 0,
+          "number": "50",
+          "line1": "rue de Cautartin",
+          "line2": "Paris",
+          "postcode": "75009",
+          "country": "France"
+        },
+        {
+          "addressId": 1,
+          "number": "120",
+          "line1": "rue du Faubourg St Antoine",
+          "line2": "Paris",
+          "postcode": "75012",
+          "country": "France"
         },
         {
           "addressId": 2,
-          "number":"1",
+          "number": "1",
           "line1": "rue Perrée",
           "line2": "Paris",
           "postcode": "75003",
           "country": "France"
-      },
-      {
-        "addressId": 3,
-        "number":"96",
-        "line1": "rue Oberkampf",
-        "line2": "Paris",
-        "postcode": "75011",
-        "country": "France"
-    },
-    {
-      "addressId": 4,
-      "number":"24",
-      "line1": "rue Pierre Fontaine",
-      "line2": "Paris",
-      "postcode": "75009",
-      "country": "France"
-  }
-       ]
+        },
+        {
+          "addressId": 3,
+          "number": "96",
+          "line1": "rue Oberkampf",
+          "line2": "Paris",
+          "postcode": "75011",
+          "country": "France"
+        },
+        {
+          "addressId": 4,
+          "number": "24",
+          "line1": "rue Pierre Fontaine",
+          "line2": "Paris",
+          "postcode": "75009",
+          "country": "France"
+        }
+      ]
     },
     {
       "id": 24,
@@ -709,75 +757,94 @@
       "restaurant": "231 East Street",
       "web": "https://www.231-east.fr/",
       "description": "True New York style burger in France",
-      "ingredients": ["beef", "smoked bacon", "chicken", "veggie burgers", "brioche bun", "honey mustard sauce", "onion chutney", "pepper sauce", "avacado"],
+      "ingredients": [
+        "beef",
+        "smoked bacon",
+        "chicken",
+        "veggie burgers",
+        "brioche bun",
+        "honey mustard sauce",
+        "onion chutney",
+        "pepper sauce",
+        "avacado"
+      ],
       "addresses": [
-          {
-              "addressId": 0,
-              "number":"7",
-              "line1": "rue de la Couronne",
-              "line2": "Aix-en-Provence",
-              "postcode": "13100",
-              "country": "France"
-          },
-          {
-            "addressId": 1,
-            "number":"9",
-            "line1": "faubourg Sainte-Claire",
-            "line2": "Annecy",
-            "postcode": "7400",
-            "country": "France"
+        {
+          "addressId": 0,
+          "number": "7",
+          "line1": "rue de la Couronne",
+          "line2": "Aix-en-Provence",
+          "postcode": "13100",
+          "country": "France"
+        },
+        {
+          "addressId": 1,
+          "number": "9",
+          "line1": "faubourg Sainte-Claire",
+          "line2": "Annecy",
+          "postcode": "7400",
+          "country": "France"
         },
         {
           "addressId": 2,
-          "number":"10",
+          "number": "10",
           "line1": "Grande rue",
           "line2": "Grenoble",
           "postcode": "38000",
           "country": "France"
-      },
-      {
-        "addressId": 3,
-        "number":"2",
-        "line1": "rue de la Pépinière",
-        "line2": "Paris",
-        "postcode": "75008",
-        "country": "France"
+        },
+        {
+          "addressId": 3,
+          "number": "2",
+          "line1": "rue de la Pépinière",
+          "line2": "Paris",
+          "postcode": "75008",
+          "country": "France"
+        },
+        {
+          "addressId": 4,
+          "number": "",
+          "line1": "boulevard Géneral de Gaulle",
+          "line2": "Nantes",
+          "postcode": "44000",
+          "country": "France"
+        }
+      ]
     },
     {
-      "addressId": 4,
-      "number":"",
-      "line1": "boulevard Géneral de Gaulle",
-      "line2": "Nantes",
-      "postcode": "44000",
-      "country": "France"
-     }
-     ]
-    },
-    {
-        "id": 25,
-        "name": "Cajun Black Bean Burger",
-        "restaurant": "The Chicago Diner",
-        "web": "www.veggiediner.com",
-        "description": "a hearty veggie burger with a kick that goes great with sweet potato fries",
-        "ingredients": ["spicy black bean veggie patty", "sautéed onions", "mushrooms", "spinach", "tomato", "fried jalapeño", "cheddar sauce", "creole mustard"],
-        "addresses": [
-            {
-              "addressId": 0,
-              "number": "3411",
-              "line1": "N Halsted St",
-              "line2": "Chicago, Illinois",
-              "postcode": "60657",
-              "country": "USA"
-            },
-            {
-              "addressId": 1,
-              "number": "2333",
-              "line1": "N Milwaukee Ave",
-              "line2": "Chicago, Illinois",
-              "postcode": "60647",
-              "country": "USA"
-          }
-        ]
+      "id": 25,
+      "name": "Cajun Black Bean Burger",
+      "restaurant": "The Chicago Diner",
+      "web": "www.veggiediner.com",
+      "description": "a hearty veggie burger with a kick that goes great with sweet potato fries",
+      "ingredients": [
+        "spicy black bean veggie patty",
+        "sautéed onions",
+        "mushrooms",
+        "spinach",
+        "tomato",
+        "fried jalapeño",
+        "cheddar sauce",
+        "creole mustard"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "3411",
+          "line1": "N Halsted St",
+          "line2": "Chicago, Illinois",
+          "postcode": "60657",
+          "country": "USA"
+        },
+        {
+          "addressId": 1,
+          "number": "2333",
+          "line1": "N Milwaukee Ave",
+          "line2": "Chicago, Illinois",
+          "postcode": "60647",
+          "country": "USA"
+        }
+      ]
     },
     {
       "id": 26,
@@ -785,17 +852,23 @@
       "restaurant": "Whataburger",
       "web": "www.whataburger.com",
       "description": "burger with hatch green chiles, bacon and cheese",
-      "ingredients": ["beef", "cheese", "bacon", "hatch green chiles", "mayonnaise"],
+      "ingredients": [
+        "beef",
+        "cheese",
+        "bacon",
+        "hatch green chiles",
+        "mayonnaise"
+      ],
       "addresses": [
-          {
-              "addressId": 0,
-              "number":"984",
-              "line1": "388 E Stacy Rd",
-              "line2": "Allen, TX",
-              "postcode": "75002",
-              "country": "USA"
-          }
-       ]
+        {
+          "addressId": 0,
+          "number": "984",
+          "line1": "388 E Stacy Rd",
+          "line2": "Allen, TX",
+          "postcode": "75002",
+          "country": "USA"
+        }
+      ]
     },
     {
       "id": 27,
@@ -803,17 +876,25 @@
       "restaurant": "The Street",
       "web": "www.thestreet.cz",
       "description": "American, Bar, International, European, Vegetarian Friendly",
-      "ingredients": ["beef", "cheddar cheese", "blue cheese", "onion", "mozzarella", "bacon", "lettuce"],
+      "ingredients": [
+        "beef",
+        "cheddar cheese",
+        "blue cheese",
+        "onion",
+        "mozzarella",
+        "bacon",
+        "lettuce"
+      ],
       "addresses": [
-          {
-              "addressId": 0,
-              "number":"11",
-              "line1": "Konviktska",
-              "line2": "Prague",
-              "postcode": "110 00",
-              "country": "The Czech Republic"
-          }
-       ]
+        {
+          "addressId": 0,
+          "number": "11",
+          "line1": "Konviktska",
+          "line2": "Prague",
+          "postcode": "110 00",
+          "country": "The Czech Republic"
+        }
+      ]
     }
   ]
 }
