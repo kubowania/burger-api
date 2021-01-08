@@ -895,6 +895,31 @@
           "country": "The Czech Republic"
         }
       ]
+    },
+    {
+      "id": 28,
+      "name": "Yellow Bird Veggie Burger",
+      "restaurant": "Yellow Bird",
+      "web": "www.yellowbird.com.au/",
+      "description": "Mexican style burger with corn fritters and guacamole",
+      "ingredients": [
+        "corn fritters",
+        "guacamole",
+        "cheese",
+        "salsa",
+        "rocket",
+        "sweet chilli"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "122",
+          "line1": "Chapel Street",
+          "line2": "Windsor",
+          "postcode": "3181",
+          "country": "Australia"
+        }
+      ]
     }
   ]
 }
