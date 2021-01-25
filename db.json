@@ -895,6 +895,43 @@
           "country": "The Czech Republic"
         }
       ]
-    }
+    },
+    {
+    "id": 28,
+    "name": "Dungeon Burger",
+    "restaurant": "McMenamins",
+    "web": "https://www.mcmenamins.com/",
+    "description": "6-oz all-natural beef or Hammerhead garden patty served on a bun",
+    "ingredients": [
+      "swiss cheese",
+      "grilled mushrooms"
+    ],
+    "addresses": [
+      {
+        "addressId": 0,
+        "number": "13300",
+        "line1": "Bothell-Everett Highway",
+        "line2": "Mill Creek, Washington",
+        "postcode": "98012",
+        "country": "United States"
+      },
+      {
+        "addressId": 1,
+        "number": "300",
+        "line1": "E Pike St",
+        "line2": "Seattle, Washington",
+        "postcode": "98122",
+        "country": "United States"
+      },
+      {
+        "addressId": 2,
+        "number": "1716",
+        "line1": "NW 23rd",
+        "line2": "Portland, Oregon",
+        "postcode": "97210",
+        "country": "United States"
+      }
+    ]
+  }
   ]
 }
