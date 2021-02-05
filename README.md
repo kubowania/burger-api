@@ -14,7 +14,7 @@ fetch('https://my-burger-api.herokuapp.com/burgers/0')
   .then(data => console.log(data));
 ```
 
-For those of you who would like to add a burger to my datavase, please make a pull request here, following the same format as discussed on [this video.](https://youtu.be/FLnxgSZ0DG4)
+For those of you who would like to add a burger to my database, please make a pull request here, following the same format as discussed on [this video.](https://youtu.be/FLnxgSZ0DG4)
 
 If you did like the video tutorial, please hit the Like and Subscribe button so I know to make more!
 
