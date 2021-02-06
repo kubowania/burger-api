@@ -895,6 +895,29 @@
           "country": "The Czech Republic"
         }
       ]
+    },
+    {
+      "id": 28,
+      "name": "BurgerFi Burger",
+      "restaurant": "BurgerFi",
+      "web": "https://www.burgerfi.com/menu/",
+      "description": "Double Natural Angus Beef, Lettuce, Tomato, BurgerFi Sauce",
+      "ingredients": [
+        "Angus beef",
+        "BurgerFi sauce",
+        "tomato",
+        "lettuce"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "1",
+          "line1": "4100 North Alafaya Trail",
+          "line2": "Orlando",
+          "postcode": "32816",
+          "country": "United States"
+        }
+      ]
     }
   ]
 }
