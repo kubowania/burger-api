@@ -920,6 +920,31 @@
           "country": "Switzerland"
         }
       ]
+    },
+    {
+      "id": 29,
+      "name": "Trio Burger",
+      "restaurant": "Bruno's Best Burger",
+      "web": "www.bettybossi.ch",
+      "description": "European, Bar, International, Meat Lovers",
+      "ingredients": [
+        "Minced meat (chicken)",
+        "Shallot , chopped",
+        "cornflakes",
+        "egg",
+        "curry",
+        "salt"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "17",
+          "line1": "Staub",
+          "line2": "Luzern",
+          "postcode": "6005",
+          "country": "Switzerland"
+        }
+      ]
     }
   ]
 }
