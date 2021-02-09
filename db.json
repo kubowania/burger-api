@@ -895,6 +895,32 @@
           "country": "The Czech Republic"
         }
       ]
+    },
+    {
+      "id": 28,
+      "name": "Mexican Burger",
+      "restaurant": "Hamburguesas Don Ramón",
+      "web": "www.donramon.mx",
+      "description": "Mexican hamburguer made with the best beef meat, guacamole sauce, jalapeño pepper, tomatoes slices and lettuce ",
+      "ingredients": [
+        "beef",
+        "cheddar cheese",
+        "guacamole sauce",
+        "onion",
+        "mozzarella",
+        "bacon",
+        "lettuce"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "5153",
+          "line1": "Mercado andares",
+          "line2": "Blvrd Puerta de Hierro",
+          "postcode": "45079",
+          "country": "MX"
+        }
+      ]
     }
   ]
 }
