@@ -895,6 +895,32 @@
           "country": "The Czech Republic"
         }
       ]
+    },
+    {
+      "id": 28,
+      "name": "Miss Lily",
+      "restaurant": "Juicy Grill",
+      "web": "www.juicygrill.gr",
+      "description": "Spicy beef burger wrapped in bacon",
+      "ingredients": [
+        "Beef",
+        "bacon",
+        "cheddar cheese",
+        "emmental",
+        "iceberg",
+        "tomato",
+        "sriracha mayo"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "2",
+          "line1": "Kerameikou",
+          "line2": "",
+          "postcode": "15561",
+          "country": "Greece"
+        }
+      ]
     }
   ]
 }
