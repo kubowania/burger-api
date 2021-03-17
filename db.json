@@ -895,6 +895,28 @@
           "country": "The Czech Republic"
         }
       ]
+    },
+    {
+      "id": 28,
+      "name": "Nigerian Suya Burger",
+      "restaurant": "Sooyah Bistro",
+      "web": "https://sooyahbistro.com/",
+      "description": "Nigerian, Bar, International, African, Vegetarian Friendly",
+      "ingredients": [
+        "beef suya",
+        "chicken",
+        "grilled pepper"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "1",
+          "line1": "SPAR Compound, Palms Spring Road",
+          "line2": "Lekki, Lagos",
+          "postcode": "105102",
+          "country": "Federal Republic of Nigeria"
+        }
+      ]
     }
   ]
 }
