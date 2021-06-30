@@ -895,6 +895,34 @@
           "country": "The Czech Republic"
         }
       ]
+    },
+    {
+      "id": 28,
+      "name": "Veg Pizza Burger",
+      "restaurant": "The Burger Club",
+      "web": "https://theburgerclub.in/",
+      "description": "The cheeziest pizza burger , that will make you whack - whack !!! ",
+      "ingredients": [
+        "mozzarella cheese",
+        "grilled paneer",
+        "fresh green Capsicum",
+        "onion",
+        "tomato",
+        "jalapenos",
+        "pineapple",
+        "black olives",
+        "tomato pizza sauce"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "11",
+          "line1": "Nazafgarah",
+          "line2": "Rajouri Garden",
+          "postcode": "110027",
+          "country": "India"
+        }
+      ]
     }
   ]
 }
