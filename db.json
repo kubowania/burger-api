@@ -32,11 +32,7 @@
       "restaurant": "Mooshies",
       "web": "www.veganburger.org",
       "description": "Spicy vegan burger with jackfruit",
-      "ingredients": [
-        "jackfruit",
-        "coleslaw",
-        "gluten free bun"
-      ],
+      "ingredients": ["jackfruit", "coleslaw", "gluten free bun"],
       "addresses": [
         {
           "addressId": 0,
@@ -161,11 +157,7 @@
       "restaurant": "Bob's Burgers",
       "web": "https://bobs-burgers.fandom.com/wiki/Burger_of_the_Day",
       "description": "N/A",
-      "ingredients": [
-        "beef",
-        "curry",
-        "bun"
-      ],
+      "ingredients": ["beef", "curry", "bun"],
       "addresses": [
         {
           "addressId": 0,
@@ -533,12 +525,7 @@
       "restaurant": "Burger King India",
       "web": "www.mojitto.com",
       "description": "Burger a day keeps the fat away",
-      "ingredients": [
-        "bread",
-        "maida",
-        "chick",
-        "patty"
-      ],
+      "ingredients": ["bread", "maida", "chick", "patty"],
       "addresses": [
         {
           "addressID": 0,
@@ -893,6 +880,312 @@
           "line2": "Prague",
           "postcode": "110 00",
           "country": "The Czech Republic"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "SmokeShack",
+      "restaurant": "Shake Shack",
+      "web": "www.shakeshack.com",
+      "description": "Single or Double cheeseburger with Niman Ranch applewood-smoked bacon, chopped cherry peppers, ShackSauce.",
+      "ingredients": [
+        "beef",
+        "cheddar cheese",
+        "applewood-smoked bacon",
+        "chopped cherry peppers",
+        "ShackSauce"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "252",
+          "line1": "S. Brand Blvd.",
+          "line2": "Glendale, CA",
+          "postcode": "91204",
+          "country": "United States"
+        },
+        {
+          "addressId": 1,
+          "number": "200",
+          "line1": "N. San Fernando Blvd.",
+          "line2": "Burbank, CA",
+          "postcode": "91502",
+          "country": "United States"
+        },
+        {
+          "addressId": 2,
+          "number": "400",
+          "line1": "West 8th Street",
+          "line2": "Los Angeles, CA",
+          "postcode": "90014",
+          "country": "United States"
+        },
+        {
+          "addressId": 3,
+          "number": "6201",
+          "line1": "Hollywood Blvd.",
+          "line2": "Hollywood, CA",
+          "postcode": "90028",
+          "country": "United States"
+        },
+        {
+          "addressId": 4,
+          "number": "6440",
+          "line1": "E Pacific Coast Hwy.",
+          "line2": "Long Beach, CA",
+          "postcode": "90803",
+          "country": "United States"
+        },
+        {
+          "addressId": 5,
+          "number": "750",
+          "line1": "S Arroyo Parkway",
+          "line2": "Pasadena, CA",
+          "postcode": "91105",
+          "country": "United States"
+        },
+        {
+          "addressId": 6,
+          "number": "501",
+          "line1": "Wilshire Blvd.",
+          "line2": "Santa Monica, CA",
+          "postcode": "90401",
+          "country": "United States"
+        },
+        {
+          "addressId": 7,
+          "number": "10250",
+          "line1": "Santa Monica Boulevard",
+          "line2": "Century City, CA",
+          "postcode": "90067",
+          "country": "United States"
+        },
+        {
+          "addressId": 8,
+          "number": "6443",
+          "line1": "Topanga Canyon Blvd.",
+          "line2": "Canoga Park, CA",
+          "postcode": "91303",
+          "country": "United States"
+        },
+        {
+          "addressId": 9,
+          "number": "8520",
+          "line1": "Santa Monica Boulevard",
+          "line2": "West Hollywood, CA",
+          "postcode": "90069",
+          "country": "United States"
+        },
+        {
+          "addressId": 10,
+          "number": "4786",
+          "line1": "Admiralty Way",
+          "line2": "Marina del Rey, CA",
+          "postcode": "90292",
+          "country": "United States"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Chick'n Shack",
+      "restaurant": "Shake Shack",
+      "web": "www.shakeshack.com",
+      "description": "Crispy chicken breast topped with lettuce, pickles, buttermilk herb mayo.",
+      "ingredients": [
+        "chicken breast",
+        "lettuce",
+        "pickles",
+        "buttermilk herb mayo"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "252",
+          "line1": "S. Brand Blvd.",
+          "line2": "Glendale, CA",
+          "postcode": "91204",
+          "country": "United States"
+        },
+        {
+          "addressId": 1,
+          "number": "200",
+          "line1": "N. San Fernando Blvd.",
+          "line2": "Burbank, CA",
+          "postcode": "91502",
+          "country": "United States"
+        },
+        {
+          "addressId": 2,
+          "number": "400",
+          "line1": "West 8th Street",
+          "line2": "Los Angeles, CA",
+          "postcode": "90014",
+          "country": "United States"
+        },
+        {
+          "addressId": 3,
+          "number": "6201",
+          "line1": "Hollywood Blvd.",
+          "line2": "Hollywood, CA",
+          "postcode": "90028",
+          "country": "United States"
+        },
+        {
+          "addressId": 4,
+          "number": "6440",
+          "line1": "E Pacific Coast Hwy.",
+          "line2": "Long Beach, CA",
+          "postcode": "90803",
+          "country": "United States"
+        },
+        {
+          "addressId": 5,
+          "number": "750",
+          "line1": "S Arroyo Parkway",
+          "line2": "Pasadena, CA",
+          "postcode": "91105",
+          "country": "United States"
+        },
+        {
+          "addressId": 6,
+          "number": "501",
+          "line1": "Wilshire Blvd.",
+          "line2": "Santa Monica, CA",
+          "postcode": "90401",
+          "country": "United States"
+        },
+        {
+          "addressId": 7,
+          "number": "10250",
+          "line1": "Santa Monica Boulevard",
+          "line2": "Century City, CA",
+          "postcode": "90067",
+          "country": "United States"
+        },
+        {
+          "addressId": 8,
+          "number": "6443",
+          "line1": "Topanga Canyon Blvd.",
+          "line2": "Canoga Park, CA",
+          "postcode": "91303",
+          "country": "United States"
+        },
+        {
+          "addressId": 9,
+          "number": "8520",
+          "line1": "Santa Monica Boulevard",
+          "line2": "West Hollywood, CA",
+          "postcode": "90069",
+          "country": "United States"
+        },
+        {
+          "addressId": 10,
+          "number": "4786",
+          "line1": "Admiralty Way",
+          "line2": "Marina del Rey, CA",
+          "postcode": "90292",
+          "country": "United States"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "ShackBurger",
+      "restaurant": "Shake Shack",
+      "web": "www.shakeshack.com",
+      "description": "Single or Double cheeseburger topped with lettuce, tomato, ShackSauce.",
+      "ingredients": ["beef", "lettuce", "tomato", "ShackSauce"],
+      ,
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "252",
+          "line1": "S. Brand Blvd.",
+          "line2": "Glendale, CA",
+          "postcode": "91204",
+          "country": "United States"
+        },
+        {
+          "addressId": 1,
+          "number": "200",
+          "line1": "N. San Fernando Blvd.",
+          "line2": "Burbank, CA",
+          "postcode": "91502",
+          "country": "United States"
+        },
+        {
+          "addressId": 2,
+          "number": "400",
+          "line1": "West 8th Street",
+          "line2": "Los Angeles, CA",
+          "postcode": "90014",
+          "country": "United States"
+        },
+        {
+          "addressId": 3,
+          "number": "6201",
+          "line1": "Hollywood Blvd.",
+          "line2": "Hollywood, CA",
+          "postcode": "90028",
+          "country": "United States"
+        },
+        {
+          "addressId": 4,
+          "number": "6440",
+          "line1": "E Pacific Coast Hwy.",
+          "line2": "Long Beach, CA",
+          "postcode": "90803",
+          "country": "United States"
+        },
+        {
+          "addressId": 5,
+          "number": "750",
+          "line1": "S Arroyo Parkway",
+          "line2": "Pasadena, CA",
+          "postcode": "91105",
+          "country": "United States"
+        },
+        {
+          "addressId": 6,
+          "number": "501",
+          "line1": "Wilshire Blvd.",
+          "line2": "Santa Monica, CA",
+          "postcode": "90401",
+          "country": "United States"
+        },
+        {
+          "addressId": 7,
+          "number": "10250",
+          "line1": "Santa Monica Boulevard",
+          "line2": "Century City, CA",
+          "postcode": "90067",
+          "country": "United States"
+        },
+        {
+          "addressId": 8,
+          "number": "6443",
+          "line1": "Topanga Canyon Blvd.",
+          "line2": "Canoga Park, CA",
+          "postcode": "91303",
+          "country": "United States"
+        },
+        {
+          "addressId": 9,
+          "number": "8520",
+          "line1": "Santa Monica Boulevard",
+          "line2": "West Hollywood, CA",
+          "postcode": "90069",
+          "country": "United States"
+        },
+        {
+          "addressId": 10,
+          "number": "4786",
+          "line1": "Admiralty Way",
+          "line2": "Marina del Rey, CA",
+          "postcode": "90292",
+          "country": "United States"
         }
       ]
     }
