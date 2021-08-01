@@ -32,7 +32,11 @@
       "restaurant": "Mooshies",
       "web": "www.veganburger.org",
       "description": "Spicy vegan burger with jackfruit",
-      "ingredients": ["jackfruit", "coleslaw", "gluten free bun"],
+      "ingredients": [
+        "jackfruit",
+        "coleslaw",
+        "gluten free bun"
+      ],
       "addresses": [
         {
           "addressId": 0,
@@ -157,7 +161,11 @@
       "restaurant": "Bob's Burgers",
       "web": "https://bobs-burgers.fandom.com/wiki/Burger_of_the_Day",
       "description": "N/A",
-      "ingredients": ["beef", "curry", "bun"],
+      "ingredients": [
+        "beef",
+        "curry",
+        "bun"
+      ],
       "addresses": [
         {
           "addressId": 0,
@@ -525,7 +533,12 @@
       "restaurant": "Burger King India",
       "web": "www.mojitto.com",
       "description": "Burger a day keeps the fat away",
-      "ingredients": ["bread", "maida", "chick", "patty"],
+      "ingredients": [
+        "bread",
+        "maida",
+        "chick",
+        "patty"
+      ],
       "addresses": [
         {
           "addressID": 0,
@@ -1096,8 +1109,12 @@
       "restaurant": "Shake Shack",
       "web": "www.shakeshack.com",
       "description": "Single or Double cheeseburger topped with lettuce, tomato, ShackSauce.",
-      "ingredients": ["beef", "lettuce", "tomato", "ShackSauce"],
-      ,
+      "ingredients": [
+        "beef", 
+        "lettuce", 
+        "tomato", 
+        "ShackSauce"
+      ],
       "addresses": [
         {
           "addressId": 0,
