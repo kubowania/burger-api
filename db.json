@@ -896,5 +896,30 @@
         }
       ]
     }
+    {
+      "id": 28,
+      "name": "Extreme cheesy whopper jr",
+      "web": "www.burgerking.vn",
+      "description": "Extreme cheesy burger for who was hungry!",
+      "ingredients": [
+        "beef",
+        "cheddar cheese",
+        "onion",
+        "cheddar cheese",
+        "tomato",
+        "salad",
+        "cheddar cheese"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "99",
+          "line1": "Trung Hoa",
+          "line2": "Hanoi",
+          "postcode": "100000",
+          "country": "Vietnam"
+        }
+      ]
+    }
   ]
 }
