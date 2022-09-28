@@ -895,6 +895,30 @@
           "country": "The Czech Republic"
         }
       ]
+    },
+    {
+      "id": 28,
+      "name": "Bro Snicker Burger",
+      "restaurant": "Myke's Cafe",
+      "web": "https://mykescafe.com/",
+      "description": "We're talking a bite-sized Snickers bar and bacon cooked inside a beef patty, topped with cheddar cheese, two more strips of bacon, lettuce, green apple, and honey habañero aioli in a Portuguese bun.",
+      "ingredients": [
+        "snickers candy bar",
+        "cheddar cheese",
+        "bacon",
+        "green apple",
+        "house-made honey habanero aioli"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "13171",
+          "line1": "Van Nuys Blvd",
+          "line2": "Pacoima, CA",
+          "postcode": "91331",
+          "country": "United States"
+        }
+      ]
     }
   ]
 }
