@@ -1,7 +1,7 @@
 {
-  "name": "burger-api",
+  "name": "blinkist-coding-challenge-api",
   "version": "1.0.0",
-  "description": "My Burger Api",
+  "description": "My Blinkist Books Api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kubowania/burger-api.git"
+    "url": "git+https://github.com/joniaranguri/blinkist-coding-challenge-api.git"
   },
-  "author": "",
+  "author": "Jonathan Aranguri",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kubowania/burger-api/issues"
+    "url": "https://github.com/joniaranguri/blinkist-coding-challenge-api/issues"
   },
-  "homepage": "https://github.com/kubowania/burger-api#readme",
+  "homepage": "https://github.com/joniaranguri/blinkist-coding-challenge-api#readme",
   "dependencies": {
     "json-server": "^0.16.2"
   }
