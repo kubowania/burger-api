@@ -895,6 +895,41 @@
           "country": "The Czech Republic"
         }
       ]
+    },
+    {
+      "id": 28,
+      "name": "Creamy Mexicano (Beef)",
+      "restaurant": "Sallys",
+      "web": "https://menuprices.pk/sallys-f11-menu/",
+      "description": "Loaded Beef burger with creamy sauce and mexican spices.",
+      "ingredients": [
+        "beef",
+        "butter",
+        "cheddar cheese",
+        "mozzarella",
+        "jalapenos",
+        "cream sauce",
+        "onion",
+        "lettuce"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "051-8990793",
+          "line1": "F-11 Markaz",
+          "line2": "Islamabad,Pakistan",
+          "postcode": "44000",
+          "country": "Pakistan"
+        },
+        {
+          "addressId": 1,
+          "number": " 042-34556259",
+          "line1": "98 R block CCA Phase 2 DHA",
+          "line2": "Lahore, Pakistan",
+          "postcode": "54000",
+          "country": "Pakistan"
+        }
+      ]
     }
   ]
 }
