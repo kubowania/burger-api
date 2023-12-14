@@ -895,6 +895,30 @@
           "country": "The Czech Republic"
         }
       ]
+    },
+    {
+      "id": 28,
+      "name": "Double French Onion Burger",
+      "restaurant": "Free State Kitchen",
+      "web": "www.freestatekitchen.co.uk",
+      "description": "Massive original burger, one of the best in town",
+      "ingredients": [
+        "double beef",
+        "swiss cheese",
+        "garlic butter",
+        "caramelised onions",
+        "dijon mustard mayonnaise"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "number": "1",
+          "line1": "Maryland Street",
+          "line2": "Liverpool",
+          "postcode": "L1 9DE",
+          "country": "United Kingdom"
+        }
+      ]
     }
   ]
 }
